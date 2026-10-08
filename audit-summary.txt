@@ -1,0 +1,55 @@
+WALIDIA YACHTS — EXISTING WEBSITE / MIGRATION BASELINE
+Checked: 8 October 2026. Read-only audit; no live changes.
+
+CURRENT REQUIREMENT
+Plan 70–75 distinct content URLs. English default with Arabic, Chinese and Russian selection on the same URLs. Language variants must NOT be counted as extra pages. The earlier 18 x 4 proposal and its HTML are superseded in scope, not yet replaced.
+
+SCOPE AND COUNTS
+Discovery: Firecrawl map (73 URLs), homepage internal links, and the two sitemaps referenced by the site's sitemap index. 90 unique normalized request URLs checked with redirects followed; all returned final HTTP 200, including the external WhatsApp destination. This does not prove all content is correct or exclude soft 404s.
+After redirect deduplication: 74 distinct same-domain destination URLs. Excluding two RSS feeds, two author archives and two yacht taxonomy archives gives 68 content pages found. This is a bounded inventory, not an exhaustive recursive crawl or Google's indexed-page count.
+Content breakdown: 30 page-sitemap pages; 14 post-sitemap articles; 22 discovered yacht detail pages; two additional destination pages (Oman and Seychelles). Total 68.
+The page/post sitemaps list 44 URLs total. No yacht detail URLs are included in those two published sitemaps, and the sitemap index currently lists no yacht sitemap.
+
+RANKING EVIDENCE
+DataForSEO Labs / Google / United Arab Emirates / English / organic / target walidiayachts.com. Retrieved 8 October 2026; 59 keyword observations returned. These are historical database observations, not current positions everywhere or actual visitors. No Search Console, GA4, backlink audit or Maps ranking audit was available.
+Examples (keyword | observed organic rank | page | observation date):
+walidia yachts | 1 | / | 4 September 2026
+abu dhabi yachts | 3 | / | 29 July 2026
+yacht rental abu dhabi | 12 | / | 18 September 2026
+yacht charter | 19 | / | 12 September 2026
+price of yacht | 55 | /how-much-does-a-yacht-cost/ | 30 September 2026
+new year's eve party abu dhabi | 64 | /new-years-eve-in-abu-dhabi/ | 12 August 2026
+57 of 59 observations point to the homepage; two point to articles. This dataset is predominantly charter/rental-related. It does not establish that other pages have no traffic or rankings. Competitor-brand terms and close variants should not be treated as qualified traffic or summed into unique audience totals.
+
+VERIFIED TECHNICAL OBSERVATIONS
+1. Oman final URL:
+https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/
+Canonical points to the older /luxury-yacht-charter-rent-a-yacht/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/ URL, which redirects to the final URL above.
+2. Seychelles final URL:
+https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/
+Canonical points to the older /luxury-yacht-charter-rent-a-yacht/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/ URL, which redirects to the final URL above.
+3. Homepage contains legacy internal links that redirect, including old buy/charter and destination paths. Update internal links directly to final destinations in the rebuild, while preserving necessary old redirects.
+4. Homepage raw HTML has an index/follow directive and a self-referencing canonical. Firecrawl's merged metadata also returned noindex; this was NOT confirmed in the homepage's raw robots tag and must not be reported as a homepage indexing block.
+5. Raw HTML heading extraction found missing H1 tags on several pages, including yacht management and FAQ. This is a template/content review item, not proof of a ranking penalty.
+6. Homepage contains dated 2024 event references and the older closing tagline. Replace with verified current event information and the approved Luxury Yachts | Bespoke Services tagline.
+
+MIGRATION RECOMMENDATIONS
+- Protect the homepage's charter relevance while making sales the first commercial journey.
+- Include actual yacht detail pages in the 70–75-page inventory rather than hiding all yacht detail in expandable cards.
+- Review availability and accuracy of every yacht listing before deciding retention. Do not equate absent keyword data with no value.
+- Retain or carefully map /buy-a-yacht/, /buy-a-yacht/sell-your-yacht/, /yacht-management/, charter hub, event pages and useful articles.
+- Review /how-much-does-a-yacht-cost/ and /new-years-eve-in-abu-dhabi/ for factual updates and retain their useful content and established URLs where practical.
+- Decide the treatment of existing Dubai and Qatar pages explicitly; omission from the new priority-market list does not itself justify deletion.
+- Keep /whatsapp working as a utility redirect; exclude it, RSS feeds and tracking parameters from the content-page target.
+- Build the final old-to-new URL map only after inventory availability, service coverage and content decisions are confirmed. Do not redirect unrelated retired content to the homepage.
+- Same-URL language switching serves visitors but should not be represented as equivalent to separately indexable language URLs.
+
+EVIDENCE FILES
+walidia-live-url-audit-2026-10-08.json — raw HTTP/title/description/canonical/robots/H1 records and sitemap URL lists.
+walidia-ranked-keywords-2026-10-08.json — complete 59-keyword DataForSEO response.
+../../.firecrawl/walidia-map-2026-10-08.json — discovery map.
+../../.firecrawl/walidia-home-2026-10-08.json — homepage content and internal links.
+
+TO FINISH THE PERFORMANCE BASELINE
+Search Console exports for the last 12–16 months: pages, queries, countries, clicks, impressions, CTR and average position; indexing and sitemap reports. GA4 landing-page and lead-conversion reports if available. Client validation of active yacht inventory and regional delivery capability. These are needed before firm retirement decisions or revenue claims.
+

@@ -1,0 +1,25 @@
+WALIDIA — URL DECISIONS / PROJECT MEMORY
+Recorded 8 October 2026. Read this before future URL, website or migration work.
+
+Current controlling user requirement: preserve existing ranking URLs and avoid ranking loss from unnecessary URL changes. No guarantee of unchanged rankings is possible.
+English is default. Arabic, Chinese and Russian use a header language dropdown on the SAME URL. Do NOT multiply page counts by four or create locale folders without new approval.
+The 18 x 4 = 72 plan and Walidia_72_URL_Preview.html are superseded in scope. Preserve historical files, but do not implement that architecture.
+Earlier 70–75 target conflicts with deeper discovery: 89 existing content pages verified, including 43 yacht-detail pages. Current recommended preservation-first scope is 94 = 89 retained + 5 new. User approval for expanded scope remains outstanding. Do not silently cut pages to force 75.
+Source of truth for this recommendation: docs/seo-research/walidia-final-url-manifest.json. Presentation: docs/website-wireframe/Walidia_Final_URL_List.html.
+All 89 retained content pages keep the exact current final path and trailing slash. Menu labels can change without path changes. Do not introduce a duplicate /yachts-for-sale/ hub alongside /buy-a-yacht/.
+16 observed legacy internal aliases are recorded separately for one-hop permanent redirects. Their existing intermediate status codes were not measured. Implement and test 301/308 on deployment; this record is NOT deployed configuration.
+Keep /whatsapp as utility redirect and preserve required analytics/Search Console verification assets.
+Do not use blanket homepage redirects. Preserve useful query parameters. Inventory unavailable/sold is not automatic permission to delete a URL; review matching content and traffic/backlink evidence first.
+Correct the Oman and Seychelles canonical targets to their retained final URLs, not old redirecting aliases.
+Rebuild XML sitemaps to include eligible retained yacht pages; internal links must point directly to final URLs.
+Keep homepage charter relevance, strengthen sales navigation and content. Preserve original article intent when updating facts and dates. Avoid changing CMS, paths and content intent all at once.
+All 18 menus belong on one menu page; placeholders must not go live indexed.
+Abu Dhabi: current charter hub and homepage; Ras Al Khaimah: proposed dedicated page; Muscat: meaningful section on retained Oman page; Jeddah: meaningful section on retained Saudi page, distinct from F1 event page. Maldives/Seychelles: retain current pages. UAE destination hub supports regional sales links where relevant. No fictional offices or universal service claims.
+Russia/China are customer-source markets, not assumed local offices. Same-URL translation supports visitors but does not promise equivalent multilingual organic indexing.
+Sales inventory and charter inventory keep distinct listing URLs because their transaction intents differ. Two similarly named Walidia 95 charter pages need vessel/content comparison before merging.
+Brand tagline: Luxury Yachts | Bespoke Services.
+Launch gates: verify all yacht inventory and destination delivery; replace menu placeholders; review policies; obtain Search Console/GA4 and CMS URL export, add any missing URLs to mapping; check redirect chains, status, canonical, robots, internal links, media and sitemap; retain redirects at least one year, preferably indefinitely where useful; compare post-launch traffic and enquiries. Further discovery can change count.
+No deployment, deletion, live redirects or ranking promises are authorized by this planning task.
+Google reference: https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes
+
+

@@ -1,0 +1,1156 @@
+{
+  "date": "2026-10-08",
+  "status": "Final preservation-first recommendation; 94-page scope requires approval against earlier 70–75 cap. Not a deployed migration configuration.",
+  "counts": {
+    "retained": 89,
+    "new": 5,
+    "total": 94
+  },
+  "language_policy": "English default; Arabic, Simplified Chinese and Russian switch content on the same URL. No /ar/, /zh-hans/ or /ru/ page multiplication.",
+  "pages": [
+    {
+      "name": "Luxury Yacht Charter in Abu Dhabi | Yacht Rental Abu Dhabi",
+      "url": "https://walidiayachts.com/",
+      "path": "/",
+      "group": "Home",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 1
+    },
+    {
+      "name": "Luxury Yachts for Sale | Buy a Yacht, Superyachts",
+      "url": "https://walidiayachts.com/buy-a-yacht/",
+      "path": "/buy-a-yacht/",
+      "group": "Sales & ownership",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/buy-a-yacht/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 2
+    },
+    {
+      "name": "Yacht Buying Guide",
+      "path": "/buy-a-yacht/buying-guide/",
+      "url": "https://walidiayachts.com/buy-a-yacht/buying-guide/",
+      "group": "Sales & ownership",
+      "note": "Distinct purchase-process guide; link to existing yacht-cost article, inspection service and sales inventory. No duplicate price guide.",
+      "old_url": "",
+      "action": "ADD — proposed new page",
+      "status": "Not published / launch checks required",
+      "id": 3
+    },
+    {
+      "name": "Inspect a yacht | Yacht Inspection | Walidia Yachts",
+      "url": "https://walidiayachts.com/buy-a-yacht/inspect-a-yacht/",
+      "path": "/buy-a-yacht/inspect-a-yacht/",
+      "group": "Sales & ownership",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/buy-a-yacht/inspect-a-yacht/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 4
+    },
+    {
+      "name": "Market Your Yacht with Walidia Yachts | Promote a Yacht",
+      "url": "https://walidiayachts.com/buy-a-yacht/promote-a-yacht/",
+      "path": "/buy-a-yacht/promote-a-yacht/",
+      "group": "Sales & ownership",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/buy-a-yacht/promote-a-yacht/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 5
+    },
+    {
+      "name": "Sell Your Yacht | Sell Your Boat with Walidia Yachts",
+      "url": "https://walidiayachts.com/buy-a-yacht/sell-your-yacht/",
+      "path": "/buy-a-yacht/sell-your-yacht/",
+      "group": "Sales & ownership",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/buy-a-yacht/sell-your-yacht/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 6
+    },
+    {
+      "name": "Manage your Yacht Seamlessly | Walidia Yachts",
+      "url": "https://walidiayachts.com/yacht-management/",
+      "path": "/yacht-management/",
+      "group": "Sales & ownership",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yacht-management/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 7
+    },
+    {
+      "name": "Austal 236 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/austal-236-luxury-superyacht-for-sale/",
+      "path": "/yachts/austal-236-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/austal-236-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 8
+    },
+    {
+      "name": "Azimut 100 | Luxury Superyacht For Sale in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/azimut-100-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "path": "/yachts/azimut-100-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/azimut-100-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 9
+    },
+    {
+      "name": "Baglietto 177 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/baglietto-177-luxury-superyacht-for-sale/",
+      "path": "/yachts/baglietto-177-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/baglietto-177-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 10
+    },
+    {
+      "name": "Malandrino 85 | Luxury Yacht For Sale in Dubai and Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/benetti-85-luxury-yacht-for-sale-in-dubai-and-abu-dhabi/",
+      "path": "/yachts/benetti-85-luxury-yacht-for-sale-in-dubai-and-abu-dhabi/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/benetti-85-luxury-yacht-for-sale-in-dubai-and-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 11
+    },
+    {
+      "name": "Brodosplit 197 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/brodosplit-197-luxury-superyacht-for-sale/",
+      "path": "/yachts/brodosplit-197-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/brodosplit-197-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 12
+    },
+    {
+      "name": "Clelands 237 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/clelands-237-luxury-superyacht-for-sale/",
+      "path": "/yachts/clelands-237-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/clelands-237-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 13
+    },
+    {
+      "name": "Custom 110 | Luxury Superyacht For Sale in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/custom-110-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "path": "/yachts/custom-110-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/custom-110-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 14
+    },
+    {
+      "name": "Custom 144 | Luxury Superyacht For Sale in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/custom-144-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "path": "/yachts/custom-144-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/custom-144-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 15
+    },
+    {
+      "name": "Custom 164 | Luxury Superyacht For Sale in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/custom-164-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "path": "/yachts/custom-164-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/custom-164-luxury-superyacht-for-sale-in-abu-dhabi-and-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 16
+    },
+    {
+      "name": "Heesen Yachts 153 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/heesen-yachts-153-luxury-superyacht-for-sale/",
+      "path": "/yachts/heesen-yachts-153-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/heesen-yachts-153-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 17
+    },
+    {
+      "name": "Integrity 55 | 55ft Yacht For Sale in Dubai and Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/integrity-55/",
+      "path": "/yachts/integrity-55/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/integrity-55/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 18
+    },
+    {
+      "name": "Isa Yachts 141 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/isa-yachts-141-luxury-superyacht-for-sale/",
+      "path": "/yachts/isa-yachts-141-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/isa-yachts-141-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 19
+    },
+    {
+      "name": "Isa Yachts 156 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/isa-yachts-156-luxury-superyacht-for-sale/",
+      "path": "/yachts/isa-yachts-156-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/isa-yachts-156-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 20
+    },
+    {
+      "name": "McConaghy 140 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/mcconaghy-140-luxury-superyacht-for-sale/",
+      "path": "/yachts/mcconaghy-140-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/mcconaghy-140-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 21
+    },
+    {
+      "name": "Neorion Syros 299 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/neorion-syros-299-luxury-superyacht-for-sale/",
+      "path": "/yachts/neorion-syros-299-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/neorion-syros-299-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 22
+    },
+    {
+      "name": "Oceanco 300 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/oceanco-300-luxury-superyacht-for-sale/",
+      "path": "/yachts/oceanco-300-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/oceanco-300-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 23
+    },
+    {
+      "name": "Pershing 62 | Luxury Yacht For Sale in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/pershing-62-luxury-yacht-for-sale-in-abu-dhabi-and-dubai/",
+      "path": "/yachts/pershing-62-luxury-yacht-for-sale-in-abu-dhabi-and-dubai/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/pershing-62-luxury-yacht-for-sale-in-abu-dhabi-and-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 24
+    },
+    {
+      "name": "Pershing 83 | Luxury Yacht For Sale in Dubai and Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/pershing-83-luxury-yacht-for-sale-in-dubai-and-abu-dhabi/",
+      "path": "/yachts/pershing-83-luxury-yacht-for-sale-in-dubai-and-abu-dhabi/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/pershing-83-luxury-yacht-for-sale-in-dubai-and-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 25
+    },
+    {
+      "name": "Scheepswerf Gebr. van der Werf 282 | Luxury Superyacht For Sale",
+      "url": "https://walidiayachts.com/yachts/scheepswerf-gebr-van-der-werf-282-luxury-superyacht-for-sale/",
+      "path": "/yachts/scheepswerf-gebr-van-der-werf-282-luxury-superyacht-for-sale/",
+      "group": "Sales inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/scheepswerf-gebr-van-der-werf-282-luxury-superyacht-for-sale/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 26
+    },
+    {
+      "name": "Walidia Yachts - Luxury Yacht Charter | Abu Dhabi Yacht Rental",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/",
+      "path": "/abudhabi-yacht-rental-luxury/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 27
+    },
+    {
+      "name": "Explore Our Menus",
+      "path": "/abudhabi-yacht-rental-luxury/menus/",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/menus/",
+      "group": "Charter & experiences",
+      "note": "All 18 menus on one page. Dummy menus stay in private preview; real approved content required before indexing.",
+      "old_url": "",
+      "action": "ADD — proposed new page",
+      "status": "Not published / launch checks required",
+      "id": 28
+    },
+    {
+      "name": "Discover Exclusive Yacht Experiences at Walidia Yachts 6:41 am",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 29
+    },
+    {
+      "name": "Best Corporate Yacht Charter in Abu Dhabi",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/corporate-yacht-charter/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/corporate-yacht-charter/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/corporate-yacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 30
+    },
+    {
+      "name": "Festive Events on a Luxury Yacht",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/festive-events-on-a-luxury-yacht/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/festive-events-on-a-luxury-yacht/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/festive-events-on-a-luxury-yacht/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 31
+    },
+    {
+      "name": "Island Relaxing on a Luxury Yacht",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/island-relaxing/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/island-relaxing/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/island-relaxing/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 32
+    },
+    {
+      "name": "Movie Shoot on a Luxury Yacht | Abu Dhabi",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/movie-shoots/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/movie-shoots/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/movie-shoots/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 33
+    },
+    {
+      "name": "Private Celebrations | Private Yacht Charter in Abu dhabi",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/private-celebrations/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/private-celebrations/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/private-celebrations/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 34
+    },
+    {
+      "name": "Best Private Chef Experience on a Yacht in Abu Dhabi",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/private-chef-experience/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/private-chef-experience/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/private-chef-experience/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 35
+    },
+    {
+      "name": "Private Yacht Charter in UAE",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/private-yacht-charter/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/private-yacht-charter/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/private-yacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 36
+    },
+    {
+      "name": "Best Experience Sports Events on a Yacht Abu Dhabi",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/sports-events-on-a-lucury-yacht/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-experiences/sports-events-on-a-lucury-yacht/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-experiences/sports-events-on-a-lucury-yacht/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 37
+    },
+    {
+      "name": "Walidia Yachts' Signature Special Services | Best in 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-special-services/",
+      "path": "/abudhabi-yacht-rental-luxury/yacht-special-services/",
+      "group": "Charter & experiences",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/yacht-special-services/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 38
+    },
+    {
+      "name": "Walidia Yachts 65 | Luxury Private Yacht Charter in Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter-abu-dhabi/",
+      "path": "/yachts/luxury-private-yacht-charter-abu-dhabi/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 39
+    },
+    {
+      "name": "Walidia Yachts 93 | Luxury Private Yacht Charter in Saudi Arabia, Jeddah",
+      "url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter-saudi-arabia/",
+      "path": "/yachts/luxury-private-yacht-charter-saudi-arabia/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter-saudi-arabia/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 40
+    },
+    {
+      "name": "Walidia Yachts 95 | Luxury Private Yacht Charter in Dubai and Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter-uae/",
+      "path": "/yachts/luxury-private-yacht-charter-uae/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter-uae/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 41
+    },
+    {
+      "name": "Walidia Yachts 66 | Luxury Private Yacht Charter in Dubai and Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter/",
+      "path": "/yachts/luxury-private-yacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/luxury-private-yacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 42
+    },
+    {
+      "name": "Walidia Yachts 128A | Luxury Private Superyacht Charter in Oman",
+      "url": "https://walidiayachts.com/yachts/luxury-superyacht-charter-in-oman/",
+      "path": "/yachts/luxury-superyacht-charter-in-oman/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/luxury-superyacht-charter-in-oman/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 43
+    },
+    {
+      "name": "Walidia Yachts 111 | Luxury Private Superyacht Charter in Saudi Arabia, Jeddah",
+      "url": "https://walidiayachts.com/yachts/luxury-superyacht-charter-in-saudi-arabia/",
+      "path": "/yachts/luxury-superyacht-charter-in-saudi-arabia/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/luxury-superyacht-charter-in-saudi-arabia/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 44
+    },
+    {
+      "name": "Walidia Yachts 100 | Luxury Private Superyacht Charter in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/walidia-100-private-superyacht-charteruae/",
+      "path": "/yachts/walidia-100-private-superyacht-charteruae/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-100-private-superyacht-charteruae/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 45
+    },
+    {
+      "name": "Walidia Yachts 123 | Luxury Private Superyacht Charter in Dubai and Abu Dhabi",
+      "url": "https://walidiayachts.com/yachts/walidia-123-superyacht-charter/",
+      "path": "/yachts/walidia-123-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-123-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 46
+    },
+    {
+      "name": "Walidia Yachts 144 | Luxury Private Yacht Charter in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/walidia-144-luxury-private-yacht-charter/",
+      "path": "/yachts/walidia-144-luxury-private-yacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-144-luxury-private-yacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 47
+    },
+    {
+      "name": "Walidia Yachts 153 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-153-superyacht-charter/",
+      "path": "/yachts/walidia-153-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-153-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 48
+    },
+    {
+      "name": "Walidia Yachts 154 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-154-superyacht-charter/",
+      "path": "/yachts/walidia-154-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-154-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 49
+    },
+    {
+      "name": "Walidia Yachts 163 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-163-superyacht-charter/",
+      "path": "/yachts/walidia-163-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-163-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 50
+    },
+    {
+      "name": "Walidia Yachts 164 | Luxury Private Yacht Charter in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/walidia-164-luxury-yacht-charter-uae/",
+      "path": "/yachts/walidia-164-luxury-yacht-charter-uae/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-164-luxury-yacht-charter-uae/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 51
+    },
+    {
+      "name": "Walidia Yachts 197 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-197-superyacht-charter/",
+      "path": "/yachts/walidia-197-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-197-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 52
+    },
+    {
+      "name": "Walidia Yachts 211 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-211-superyacht-charter/",
+      "path": "/yachts/walidia-211-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-211-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 53
+    },
+    {
+      "name": "Walidia Yachts 213 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-213-superyacht-charter/",
+      "path": "/yachts/walidia-213-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-213-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 54
+    },
+    {
+      "name": "Walidia Yachts 226 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-226-superyacht-charter/",
+      "path": "/yachts/walidia-226-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-226-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 55
+    },
+    {
+      "name": "Walidia Yachts 236 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-236-superyacht-charter/",
+      "path": "/yachts/walidia-236-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-236-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 56
+    },
+    {
+      "name": "Walidia Yachts 288 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-288-superyacht-charter/",
+      "path": "/yachts/walidia-288-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-288-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 57
+    },
+    {
+      "name": "Walidia Yachts 299 | Luxury Private Superyacht Charter",
+      "url": "https://walidiayachts.com/yachts/walidia-299-superyacht-charter/",
+      "path": "/yachts/walidia-299-superyacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-299-superyacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 58
+    },
+    {
+      "name": "Walidia 62 | Yacht Rental Abu dhabi",
+      "url": "https://walidiayachts.com/yachts/walidia-62-luxury-yacht-for-charter-in-abu-dhabi-and-dubai/",
+      "path": "/yachts/walidia-62-luxury-yacht-for-charter-in-abu-dhabi-and-dubai/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-62-luxury-yacht-for-charter-in-abu-dhabi-and-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 59
+    },
+    {
+      "name": "Walidia Yachts 70s | Luxury Private Superyacht Charter in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/walidia-70s-private-superyacht-charteruae/",
+      "path": "/yachts/walidia-70s-private-superyacht-charteruae/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-70s-private-superyacht-charteruae/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 60
+    },
+    {
+      "name": "Walidia Yachts 95 | Luxury Private Yacht Charter in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/walidia-95-luxury-private-yacht-charter/",
+      "path": "/yachts/walidia-95-luxury-private-yacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-95-luxury-private-yacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 61
+    },
+    {
+      "name": "Walidia Yachts 99J | Luxury Private Yacht Charter in Abu Dhabi and Dubai",
+      "url": "https://walidiayachts.com/yachts/walidia-99j-luxury-private-yacht-charter/",
+      "path": "/yachts/walidia-99j-luxury-private-yacht-charter/",
+      "group": "Charter inventory",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/yachts/walidia-99j-luxury-private-yacht-charter/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Confirm vessel identity, availability and specifications before launch; preserve URL pending review.",
+      "id": 62
+    },
+    {
+      "name": "Top Luxury Yacht Destinations",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 63
+    },
+    {
+      "name": "Luxury Yacht Charter in Oman | Yacht Destinations in Oman 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 64
+    },
+    {
+      "name": "Luxury Yacht Charter in Seychelles - Yacht Destinations 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 65
+    },
+    {
+      "name": "Maldives Yacht Charter | Luxury Yacht Rentals 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/maldives-yacht-charter-destinations/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/maldives-yacht-charter-destinations/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/maldives-yacht-charter-destinations/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 66
+    },
+    {
+      "name": "Saudi Arabia Yacht Charter | Best Yacht Destinations in Saudi Arabia 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/saudi-arabia-yacht-charter-destinations/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/saudi-arabia-yacht-charter-destinations/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/saudi-arabia-yacht-charter-destinations/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 67
+    },
+    {
+      "name": "Luxury Yacht Charter Qatar |Top Yacht Destinations in Qatar 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-charter-qatar-destinations/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-charter-qatar-destinations/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-charter-qatar-destinations/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 68
+    },
+    {
+      "name": "Best Yacht Destinations in United Arab Emirates 2026",
+      "url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-destinations-in-united-arab-emirates/",
+      "path": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-destinations-in-united-arab-emirates/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-destinations-in-united-arab-emirates/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 69
+    },
+    {
+      "name": "Dubai Yacht Rental | Walidia Yachts - Luxury Yacht Charter",
+      "url": "https://walidiayachts.com/dubai-yacht-rental/",
+      "path": "/dubai-yacht-rental/",
+      "group": "Destinations",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/dubai-yacht-rental/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 70
+    },
+    {
+      "name": "Ras Al Khaimah Yacht Charter",
+      "path": "/ras-al-khaimah-yacht-charter/",
+      "url": "https://walidiayachts.com/ras-al-khaimah-yacht-charter/",
+      "group": "Destinations",
+      "note": "Publish only with confirmed delivery, local departure/itinerary information and genuinely distinct content. No invented office.",
+      "old_url": "",
+      "action": "ADD — proposed new page",
+      "status": "Not published / launch checks required",
+      "id": 71
+    },
+    {
+      "name": "Events",
+      "url": "https://walidiayachts.com/events/",
+      "path": "/events/",
+      "group": "Events",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/events/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 72
+    },
+    {
+      "name": "Formula 1 Abu Dhabi - Book a Private Yacht to Witness 2026",
+      "url": "https://walidiayachts.com/events/formula-1-abu-dhabi/",
+      "path": "/events/formula-1-abu-dhabi/",
+      "group": "Events",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/events/formula-1-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 73
+    },
+    {
+      "name": "Formula 1 Saudi Arabia",
+      "url": "https://walidiayachts.com/events/formula-1-jeddah-saudi-arabia/",
+      "path": "/events/formula-1-jeddah-saudi-arabia/",
+      "group": "Events",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/events/formula-1-jeddah-saudi-arabia/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 74
+    },
+    {
+      "name": "Sail GP Abu dhabi",
+      "url": "https://walidiayachts.com/sail-gp-abu-dhabi/",
+      "path": "/sail-gp-abu-dhabi/",
+      "group": "Events",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/sail-gp-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 75
+    },
+    {
+      "name": "10 Things to Do In Abu Dhabi in 2023 | Best Activities",
+      "url": "https://walidiayachts.com/10-things-to-do-in-abu-dhabi/",
+      "path": "/10-things-to-do-in-abu-dhabi/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/10-things-to-do-in-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 76
+    },
+    {
+      "name": "7 Reasons Why Abu Dhabi Is So Famous?",
+      "url": "https://walidiayachts.com/7-reasons-why-abu-dhabi-is-so-famous/",
+      "path": "/7-reasons-why-abu-dhabi-is-so-famous/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/7-reasons-why-abu-dhabi-is-so-famous/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 77
+    },
+    {
+      "name": "Abu Dhabi Magical Waters / Abu Dhabi Magical Islands",
+      "url": "https://walidiayachts.com/abu-dhabi-magical-waters-abu-dhabi-magical-islands/",
+      "path": "/abu-dhabi-magical-waters-abu-dhabi-magical-islands/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abu-dhabi-magical-waters-abu-dhabi-magical-islands/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 78
+    },
+    {
+      "name": "Abu Dhabi's Enchanted Islands: A Luxurious Escape",
+      "url": "https://walidiayachts.com/abu-dhabis-enchanted-islands-a-luxurious-escape/",
+      "path": "/abu-dhabis-enchanted-islands-a-luxurious-escape/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/abu-dhabis-enchanted-islands-a-luxurious-escape/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 79
+    },
+    {
+      "name": "How to Plan the Ultimate Birthday Party on a Yacht in Abu Dhabi",
+      "url": "https://walidiayachts.com/birthday-party-on-a-yacht-abudhabi/",
+      "path": "/birthday-party-on-a-yacht-abudhabi/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/birthday-party-on-a-yacht-abudhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 80
+    },
+    {
+      "name": "Celebrate 53rd UAE National Day in Style with the Ultimate Luxury Yacht Experience",
+      "url": "https://walidiayachts.com/celebrate-uae-national-day/",
+      "path": "/celebrate-uae-national-day/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/celebrate-uae-national-day/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 81
+    },
+    {
+      "name": "Exploring the Charms of Dubai and Abu Dhabi  - 2024",
+      "url": "https://walidiayachts.com/dubai-or-abu-dhabi-detailed-analysis/",
+      "path": "/dubai-or-abu-dhabi-detailed-analysis/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/dubai-or-abu-dhabi-detailed-analysis/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 82
+    },
+    {
+      "name": "Hidden Gems You Can Only Reach by Yacht in Abu Dhabi 2025",
+      "url": "https://walidiayachts.com/hidden-gems-yacht-in-abu-dhabi-2025/",
+      "path": "/hidden-gems-yacht-in-abu-dhabi-2025/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/hidden-gems-yacht-in-abu-dhabi-2025/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 83
+    },
+    {
+      "name": "How much does a Yacht Cost in 2024 ? Best Understanding the Investment",
+      "url": "https://walidiayachts.com/how-much-does-a-yacht-cost/",
+      "path": "/how-much-does-a-yacht-cost/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/how-much-does-a-yacht-cost/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 84
+    },
+    {
+      "name": "Your Ultimate Guide on How to Book a Yacht in Dubai 2024?",
+      "url": "https://walidiayachts.com/how-to-book-a-yacht-in-dubai/",
+      "path": "/how-to-book-a-yacht-in-dubai/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/how-to-book-a-yacht-in-dubai/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 85
+    },
+    {
+      "name": "Navigating the Superyacht Market : A Discerning Buyer's Perspective",
+      "url": "https://walidiayachts.com/navigating-the-superyacht-market/",
+      "path": "/navigating-the-superyacht-market/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/navigating-the-superyacht-market/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 86
+    },
+    {
+      "name": "Celebrate New Year’s Eve in Abu Dhabi: A Night to Remember on the Open Sea",
+      "url": "https://walidiayachts.com/new-years-eve-in-abu-dhabi/",
+      "path": "/new-years-eve-in-abu-dhabi/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/new-years-eve-in-abu-dhabi/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 87
+    },
+    {
+      "name": "Setting Sail into Luxury: Elevate Your Yachting Experience with Walidia Yachts",
+      "url": "https://walidiayachts.com/setting-sail-into-luxury-elevate-your-yachting-experience-with-walidia-yachts/",
+      "path": "/setting-sail-into-luxury-elevate-your-yachting-experience-with-walidia-yachts/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/setting-sail-into-luxury-elevate-your-yachting-experience-with-walidia-yachts/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 88
+    },
+    {
+      "name": "Unlocking Success in Yacht Brokerage: Your Exclusive Sales Partner",
+      "url": "https://walidiayachts.com/unlocking-success-in-yacht-brokerage-your-exclusive-sales-partner/",
+      "path": "/unlocking-success-in-yacht-brokerage-your-exclusive-sales-partner/",
+      "group": "Guides & articles",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/unlocking-success-in-yacht-brokerage-your-exclusive-sales-partner/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Refresh factual/date references without changing URL or original search intent.",
+      "id": 89
+    },
+    {
+      "name": "About Us",
+      "url": "https://walidiayachts.com/about-us/",
+      "path": "/about-us/",
+      "group": "Company & support",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/about-us/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 90
+    },
+    {
+      "name": "Contact Us",
+      "url": "https://walidiayachts.com/contact-us/",
+      "path": "/contact-us/",
+      "group": "Company & support",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/contact-us/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 91
+    },
+    {
+      "name": "FAQ",
+      "url": "https://walidiayachts.com/faq/",
+      "path": "/faq/",
+      "group": "Company & support",
+      "action": "RETAIN — same URL",
+      "old_url": "https://walidiayachts.com/faq/",
+      "status": "Existing: HTTP 200 checked",
+      "note": "Retain route and core intent; improve content and internal links.",
+      "id": 92
+    },
+    {
+      "name": "Privacy & Cookies",
+      "path": "/privacy-policy/",
+      "url": "https://walidiayachts.com/privacy-policy/",
+      "group": "Company & support",
+      "note": "New policy content needs business/legal review; use existing policy path if CMS export reveals another established URL.",
+      "old_url": "",
+      "action": "ADD — proposed new page",
+      "status": "Not published / launch checks required",
+      "id": 93
+    },
+    {
+      "name": "Website Terms",
+      "path": "/terms-and-conditions/",
+      "url": "https://walidiayachts.com/terms-and-conditions/",
+      "group": "Company & support",
+      "note": "Business/legal review required. Not a substitute for transaction-specific charter/sale contracts.",
+      "old_url": "",
+      "action": "ADD — proposed new page",
+      "status": "Not published / launch checks required",
+      "id": 94
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/luxury-yacht-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/luxury-yacht-charter-rent-a-yacht/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/luxury-yacht-charter-rent-a-yacht/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/luxury-yacht-charter-rent-a-yacht/luxury-yacht-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/destinations/yacht-destinations-in-united-arab-emirates/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-destinations-in-united-arab-emirates/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/yacht-destinations-in-united-arab-emirates/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-destinations-in-united-arab-emirates/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/destinations/yacht-charter-qatar-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/yacht-charter-qatar-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/destinations/saudi-arabia-yacht-charter-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/saudi-arabia-yacht-charter-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/destinations/luxury-yacht-charter-in-oman-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-oman-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/destinations/maldives-yacht-charter-destinations/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/maldives-yacht-charter-destinations/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/destinations/luxury-yacht-charter-in-seychelles/",
+      "destination": "/abudhabi-yacht-rental-luxury/luxury-yacht-destinations/luxury-yacht-charter-in-seychelles/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/formula-1-abu-dhabi/",
+      "destination": "/events/formula-1-abu-dhabi/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/formula-1-saudi-arabia/",
+      "destination": "/events/formula-1-jeddah-saudi-arabia/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/luxury-yacht-charter-rent-a-yacht/",
+      "destination": "/abudhabi-yacht-rental-luxury/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/buy-a-yacht-yachts-for-sale/sell-your-yacht/",
+      "destination": "/buy-a-yacht/sell-your-yacht/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    },
+    {
+      "source": "/buy-a-yacht-yachts-for-sale/",
+      "destination": "/buy-a-yacht/",
+      "proposed_status": 301,
+      "action": "Preserve observed alias destination; enforce one-hop permanent redirect at migration. Existing intermediate status codes were not recorded."
+    }
+  ],
+  "utility": {
+    "path": "/whatsapp",
+    "action": "Keep functional redirect to approved WhatsApp destination; do not include in content page count."
+  },
+  "limitations": [
+    "Bounded discovery expanded from 68 to 89 by following current sales/charter inventory links; not an exhaustive CMS export.",
+    "Search Console/GA4/backlink baseline unavailable; no evidence authorizing deletion of 19 pages to force 75.",
+    "All existing pages retained conservatively, not all proven to rank.",
+    "Similar Walidia 95 pages need vessel/content comparison before any consolidation.",
+    "Regional availability and yacht inventories require client verification."
+  ]
+}
+
